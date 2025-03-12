@@ -220,7 +220,7 @@
                 <div class="d-flex">
                     <div class="w-25">
                         <div class="p-4 mb-0">
-                            <small class="text-muted fw-bold">Total Processes</small>
+                            <small class="text-muted fw-bold">Total Processes Mattia</small>
 
                             <p class="h4 mt-2">
                                 {{ stats.processes ? stats.processes.toLocaleString() : 0 }}
